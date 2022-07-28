@@ -1,0 +1,1 @@
+Last Acc (after softmax): 50.22468939994713, Best Acc (after softmax): 51.01771081152524, Last Acc (before softmax): 50.67406819984139, Best Acc (before softmax): 51.20274914089347
