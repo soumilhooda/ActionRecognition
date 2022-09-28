@@ -13,19 +13,19 @@ The action categories can be divided into five types: 1)Human-Object Interaction
 
 Here is an example of 3 random frames from the first video of the class label ApplyEyeMakeup.
 <p float="center">
-  <img src="Images/frame000001.jpg" width="250" />
-  <img src="Images/frame000125.jpg" width="250" /> 
-  <img src="Images/frame000163.jpg" width="250" />
+  <img src="Images/frame000001.jpg" width="265" />
+  <img src="Images/frame000125.jpg" width="265" /> 
+  <img src="Images/frame000163.jpg" width="265" />
 </p>
 Some statsitics on the video count.
 <p float="center">
-  <img src="Images/videocount1.jpeg" width="500" /> 
-  <img src="Images/videocount2.jpeg" width="500" />
+  <img src="Images/videocount1.jpeg" width="400" /> 
+  <img src="Images/videocount2.jpeg" width="400" />
 </p>
 Some statistics on the video durations.
 <p float="center">
-  <img src="Images/avgclipduration1.jpeg" width="500" /> 
-  <img src="Images/avgclipduration2.jpeg" width="500" />
+  <img src="Images/avgclipduration1.jpeg" width="400" /> 
+  <img src="Images/avgclipduration2.jpeg" width="400" />
 </p>
 All these statistics have been borrowed from the dataset description [webpage](https://www.crcv.ucf.edu/data/UCF101.php).
 ## Model Description
