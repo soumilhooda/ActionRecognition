@@ -34,8 +34,7 @@ To implement the ResNet the Slow backbone of SlowFast was used. PySlowFast is a 
 <p float="center">
   <img src="Images/resnet.png" width="800" /> 
 </p>
-
-
+A copy of PyTorchVideo an be found in the folder as it has been corrected locally for [the issue](https://github.com/facebookresearch/pytorchvideo/issues/213).
 
 ## Results
 
