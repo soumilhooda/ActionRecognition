@@ -17,7 +17,17 @@ Here is an example of 3 random frames from the first video of the class label Ap
   <img src="Images/frame000125.jpg" width="250" /> 
   <img src="Images/frame000163.jpg" width="250" />
 </p>
-
+Some statsitics on the video count.
+<p float="center">
+  <img src="Images/videocount1.jpeg" width="500" /> 
+  <img src="Images/videocount2.jpeg" width="500" />
+</p>
+Some statistics on the video durations.
+<p float="center">
+  <img src="Images/avgclipduration1.jpeg" width="500" /> 
+  <img src="Images/avgclipduration2.jpeg" width="500" />
+</p>
+All these statistics have been borrowed from the dataset description [webpage](https://www.crcv.ucf.edu/data/UCF101.php).
 ## Model Description
 
 ## Results
