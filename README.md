@@ -38,6 +38,9 @@ A copy of PyTorchVideo an be found in the folder as it has been corrected locall
 
 ## Results
 
-## Conclusion and Possible Experiments
+Best accuracy is achieved as 50.67406819984139% with Res18 and 
 
 ## References
+[1] Deep Residual Learning for Image Recognition; Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun at CVPR 2016 DOI: 10.1109/CVPR.2016.90
+[2] UCF101: A Dataset of 101 Human Actions Classes From Videos in The Wild; Khurram Soomro, Amir Roshan Zamir, Mubarak Shah at arXiv Preprints arXiv:1212.0402
+[3] SlowFast Networks for Video Recognition; Christoph Feichtenhofer, Haoqi Fan, Jitendra Malik, Kaiming He at ICCV 2019 DOI: 10.1109/ICCV.2019.00630
