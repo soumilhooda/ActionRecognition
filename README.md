@@ -27,9 +27,15 @@ Some statistics on the video durations.
   <img src="Images/avgclipduration1.jpeg" width="400" /> 
   <img src="Images/avgclipduration2.jpeg" width="400" />
 </p>
-All these statistics have been borrowed from the dataset description [webpage](https://www.crcv.ucf.edu/data).
+All these statistics have been borrowed from the dataset description.[2]
 
 ## Model Description
+To implement the ResNet the Slow backbone of SlowFast was used. PySlowFast is a video understanding codebase from FAIR for reproducing state-of-the-art video models.[3] The model is decribed in the table below.
+<p float="center">
+  <img src="Images/resnet.png" width="800" /> 
+</p>
+
+
 
 ## Results
 
