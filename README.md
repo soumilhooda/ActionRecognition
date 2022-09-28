@@ -2,7 +2,7 @@
 
 ## Implementation Goal
 
-The aim is to implement ResNets[1], specifically the 18 layer deep and 50 layer deep networks to benchmark on the UCF-101 dataset.
+The aim is to implement 3D ResNets[1], specifically the 18 layer deep and 50 layer deep networks to benchmark on the UCF-101 dataset.
 
 ## Dataset Description
 
@@ -38,7 +38,7 @@ A copy of PyTorchVideo an be found in the folder as it has been corrected locall
 
 ## Results
 
-Best accuracy is achieved as 50.6% with Res18 and 82.1% with Res50.
+Best accuracy is achieved as 50.6% with Res3D18 and 82.1% with Res3D50.
 
 ## References
 [1] Deep Residual Learning for Image Recognition; Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun at CVPR 2016 DOI: 10.1109/CVPR.2016.90\
