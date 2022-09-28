@@ -13,9 +13,9 @@ The action categories can be divided into five types: 1)Human-Object Interaction
 
 Here is an example of 3 random frames from the first video of the class label ApplyEyeMakeup.
 <p float="left">
-  <img src="Images/frame0000001.jpg" width="100" />
-  <img src="Images/frame0000125.jpg" width="100" /> 
-  <img src="Images/frame0000163.jpg" width="100" />
+  <img src="Images/frame000001.jpg.jpg" width="100" />
+  <img src="Images/frame000125.jpg" width="100" /> 
+  <img src="Images/frame000163.jpg" width="100" />
 </p>
 
 ## Model Description
