@@ -28,6 +28,7 @@ Some statistics on the video durations.
   <img src="Images/avgclipduration2.jpeg" width="400" />
 </p>
 All these statistics have been borrowed from the dataset description [webpage](https://www.crcv.ucf.edu/data/UCF101.php).
+
 ## Model Description
 
 ## Results
