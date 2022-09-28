@@ -12,7 +12,7 @@ The videos are divided into 25 groups, each of which may contain 4–7 videos of
 The action categories can be divided into five types: 1)Human-Object Interaction 2) Body-Motion Only 3) Human-Human Interaction 4) Playing Musical Instruments 5) Sports.
 
 Here is an example of 3 random frames from the first video of the class label ApplyEyeMakeup.
-<p float="left">
+<p float="center">
   <img src="Images/frame000001.jpg" width="250" />
   <img src="Images/frame000125.jpg" width="250" /> 
   <img src="Images/frame000163.jpg" width="250" />
