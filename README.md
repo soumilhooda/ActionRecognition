@@ -1,4 +1,4 @@
-# Action Recogntion
+# Action Recognition
 
 ## Implementation Goal
 
